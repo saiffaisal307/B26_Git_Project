@@ -7,6 +7,7 @@ public class First {
 
         int a = 35;
         a= 42;
+        System.out.println(a);
     }
 
 
